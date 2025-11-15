@@ -11,6 +11,13 @@
 
 1. [Обзор систем ИТ-мониторинга](hw-01-new.md)
 
+![1.Задание](https://github.com/netgitups/netgitups_jen/blob/main/img/1.png)
+![2_1.Задание](https://github.com/netgitups/netgitups_jen/blob/main/img/2_1.png)
+![2_2.Задание](https://github.com/netgitups/netgitups_jen/blob/main/img/2_2.png)
+![2.3.Задание](https://github.com/netgitups/netgitups_jen/blob/main/img/2_3.png)
+![2.4.Задание](https://github.com/netgitups/netgitups_jen/blob/main/img/2_4.png)
+![2.5.Задание](https://github.com/netgitups/netgitups_jen/blob/main/img/2_5.png)
+
 2. [Система мониторинга Zabbix](hw-02.md)
 
 3. [Система мониторинга Zabbix. Часть 2](hw-03.md)
