@@ -17,7 +17,7 @@
 ![1_2_1.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/1_2_1.png)
 ![1_2_2.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/1_2_2.png)
 ![1_2_3.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/1_2_3.png)
-![1_2_4.Задание](https://github.com/netgitupssmon-homeworks/blob/main/img/1_2_4.png)
+![1_2_4.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/1_2_4.png)
 ![1_2_5.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/1_2_5.png)
 
 2. [Система мониторинга Zabbix](hw-02.md)
