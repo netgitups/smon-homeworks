@@ -107,24 +107,24 @@
 
 # Задание 4
 
-![3_4.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/Задание_4.png)
+![3_4.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/«Задание_4».png)
 
 # Задание 5
 
-![3_5.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/Задание_5.png)
+![3_5.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/«Задание_5».png)
 
 # Задание 6
 
-![3_6.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/Задание_6.png)
+![3_6.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/«Задание_6».png)
 
 # Задание 7
 
-![3_7.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/Задание_7.png)
+![3_7.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/«Задание_7».png)
 
 # Задание 8
 
-![3_8-1.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/Задание_8-1.png)
-![3_8-2.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/Задание_8-2.png)
+![3_8-1.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/«Задание_8-1».png)
+![3_8-2.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/«Задание_8-2».png)
 
 # Задание 9
 
