@@ -275,4 +275,20 @@ echo "**************************************************************************
 ``` 
 4. [Система мониторинга Prometheus](hw-04.md)
 
+# Задание 1
+![4_1.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/Задание_4_1.png)
+
+# Задание 2
+![4_2.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/Задание_4_2.png)
+
+# Задание 3
+![4_3_1.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/Задание_4_3_1.png)
+![4_3_2.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/Задание_4_3_2.png)
+# Задание 4
+![4_4.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/Задание_4_4.png)
+
+# Задание 5
+![4_5_1.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/Задание_4_5_1.png)
+![4_5_2.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/Задание_4_5_2.png)
+
 5. [Система мониторинга Prometheus. Часть 2](hw-05.md)
