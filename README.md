@@ -292,3 +292,13 @@ echo "**************************************************************************
 ![4_5_2.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/Задание_4_5_2.png)
 
 5. [Система мониторинга Prometheus. Часть 2](hw-05.md)
+
+# Задание 1
+![5_1.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/Задание_5_1.png)
+# Задание 2
+![5_2.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/Задание_5_2.png)
+# Задание 3
+![5_3_1.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/Задание_5_3_1.png)
+![5_3_2.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/Задание_5_3_2.png)
+# Задание 4
+![5_4.Задание](https://github.com/netgitups/smon-homeworks/blob/main/img/Задание_5_4.png)
